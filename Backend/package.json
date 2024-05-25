@@ -2,7 +2,7 @@
   "name": "backend",
   "type": "module",
   "scripts": {
-    "start": "nodemon . || node index.js",
+    "start": "nodemon . || node App.js",
     "generate": "npx prisma generate",
     "migrate": "npx prisma migrate dev"
   },
