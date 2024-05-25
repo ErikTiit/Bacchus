@@ -1,10 +1,10 @@
-Frontend
+Frontend -
 
 npm install
 npm run dev
 
 
-Backend
+Backend -
 
 npm install
 node app.js
